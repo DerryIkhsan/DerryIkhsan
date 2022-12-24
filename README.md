@@ -30,6 +30,10 @@
   <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/course_app.jpeg" width="225" height="425">
 </div>
 
+<br>
+
+---
+
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DerryIkhsan&theme=dark" alt="dinanrm" /></p>
 
