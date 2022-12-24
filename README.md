@@ -1,4 +1,4 @@
-### Hi there, I'm DerryIkhsan - Thanks for visiting my profile 😁
+### Hi there, I'm DerryIkhsan - Thanks for visiting my profile <img src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/code.gif" width="25">
 
 ## A Software Engineer from Bandung, Indonesia
 
