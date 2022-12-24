@@ -9,6 +9,10 @@
 - 🎯 2023 Goals: Contribute more projects
 - 🏃🏻‍♂️ Fun fact: I like cat 😻 and coffee ☕
 
+### Connect with me:
+
+[linkedin](https://www.linkedin.com/in/derry-ikhsan-09361316b/)
+
 <br>
 <br>
 <br>
