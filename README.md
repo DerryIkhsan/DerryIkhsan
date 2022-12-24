@@ -1,4 +1,4 @@
-### Hi there, I'm DerryIkhsan - Thanks for visiting my profile
+### Hi there, I'm DerryIkhsan - Thanks for visiting my profile 😁
 
 ## A Software Engineer from Bandung, Indonesia
 
