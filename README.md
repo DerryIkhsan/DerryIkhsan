@@ -9,6 +9,15 @@
 - 🎯 2023 Goals: Contribute more projects
 - 🏃🏻‍♂️ Fun fact: I like cat 😻 and coffee ☕
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DerryIkhsan&theme=dark" alt="dinanrm" /></p>
 
