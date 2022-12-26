@@ -23,11 +23,6 @@
 
 ### Flutter Portfolio
 <div>
-  <video width="320" height="240" controls>
-    <source src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/booking%20service%20app.mp4" type="video/mp4">
-  </video>
-</div>
-<div>
   <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/performance.jpeg" width="225" height="425">
   <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/chamber.jpeg" width="225" height="425">
   <img alt="img" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/pcr.jpeg" width="225" height="425">
