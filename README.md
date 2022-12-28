@@ -4,7 +4,7 @@
 
 ## A Software Engineer from Bandung, Indonesia
 
-- 👨🏻‍💻 Currently focusing on Flutter technology
+- 👨🏻‍💻 Currently focusing on Flutter technology but can adjust if needed and can quickly transition.
 - 📈 Still growing up to become an expert developer like you 😁
 - 🎯 2023 Goals: Contribute more projects
 - 🏃🏻‍♂️ Fun fact: I like cat 😻 and coffee ☕
