@@ -79,7 +79,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DerryIkhsan&theme=dark" alt="dinanrm" /></p>
 
 ![Derry github stats](https://github-readme-stats.vercel.app/api?username=DerryIkhsan&show_icons=true&theme=react&count_private=true&include_all_commits=true)
 
