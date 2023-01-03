@@ -1,6 +1,6 @@
 ### Hi there, I'm Derry Ikhsan - Thanks for visiting my profile <img src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/waving-hand.gif" width="25">
 
-<img align="right" alt="GIF" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/DerryIkhsan/DerryIkhsan/blob/main/code.gif?raw=true" width="450" height="320" />
 
 ## A Software Engineer from Bandung, Indonesia
 
