@@ -78,9 +78,9 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- (url)### 📊 GitHub Stats
 
 ![Derry github stats](https://github-readme-stats.vercel.app/api?username=DerryIkhsan&show_icons=true&theme=react&count_private=true&include_all_commits=true)
 
 ### 🔝 Top Languages:
-![Derry top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerryIkhsan&langs_count=10&layout=compact&theme=dark)
+![Derry top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerryIkhsan&langs_count=10&layout=compact&theme=dark) -->
