@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[linkedin](https://www.linkedin.com/in/derry-ikhsan-09361316b/)
+[linkedin](https://www.linkedin.com/in/derry-ikhsan/)
 
 <br>
 <br>
